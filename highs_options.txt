@@ -1,0 +1,1 @@
+mip_min_logging_interval=1
